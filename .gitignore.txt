@@ -1,0 +1,9 @@
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
+*.war
+*.ear
+.DS_Store
+Thumbs.db
